@@ -60,14 +60,6 @@ The goal of this project was to:
 
 ------------------------------------------------------------------------
 
-## 🚀 How To Run Locally
-
-git clone https://github.com/abdelhamid1235/Hospital.git
-
-Then open `index.html` in your browser.
-
-------------------------------------------------------------------------
-
 ## 📌 What I Learned
 
 -   Writing clean and semantic HTML\
